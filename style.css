@@ -1,0 +1,14 @@
+body{
+    background-color: yellow;
+}
+#score{
+    font-size: 20px;
+    margin-left:10px;
+}
+#timer{
+    font-size: 20px;
+    margin-right: 10px;
+}
+#sketch_drawn{
+    color: green;
+}
